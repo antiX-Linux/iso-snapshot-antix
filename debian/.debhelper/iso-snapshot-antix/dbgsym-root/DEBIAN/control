@@ -1,0 +1,12 @@
+Package: iso-snapshot-antix-dbgsym
+Source: iso-snapshot-antix
+Version: 0.2.2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: anticapitalista <antiX@operamail.com>
+Installed-Size: 44
+Depends: iso-snapshot-antix (= 0.2.2)
+Section: debug
+Priority: extra
+Description: Debug symbols for iso-snapshot-antix
+Build-Ids: 934827424cf643bae879ef79a493eabd6886952d
