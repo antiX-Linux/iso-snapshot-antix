@@ -4,7 +4,7 @@
     <message>
         <location filename="main.cpp" line="52"/>
         <source>You must run this program as root.</source>
-        <translation>Vous devez lancer cette application avec les droits root.</translation>
+        <translation>Vous devez lancer cette application avec les droits administrateur.</translation>
     </message>
 </context>
 <context>
@@ -13,25 +13,25 @@
         <location filename="isosnapshot.ui" line="14"/>
         <location filename="ui_isosnapshot.h" line="464"/>
         <source>isosnapshot</source>
-        <translation>isosnapshot</translation>
+        <translation>iso-snapshot</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="33"/>
         <location filename="ui_isosnapshot.h" line="465"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Snapshot is a utility that creates a bootable image (ISO) of your working system that you can use for storage or distribution. You can continue working with undemanding applications while it is running.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Snapshot est un programme utilitaire qui crée de votre système actuel une image de démarrage (ISO) afin de la garder ou la distribuer. Pendant ce temps, on peut utiliser d&apos;autres  programmes inexigeants&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Snapshot est un utilitaire qui crée une image amorçable (ISO) de votre système actuel pour que vous puissiez la conserver ou la distribuer. Vous pouvez utiliser d&apos;autres applications légères pendant son fonctionnement.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="43"/>
         <location filename="ui_isosnapshot.h" line="466"/>
         <source>Used space on / (root) and /home partitions:</source>
-        <translation>Espace utilisé sur les partitions / (racine) et /home </translation>
+        <translation>Espace utilisé sur les partitions / (racine) et /home:</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="83"/>
         <location filename="ui_isosnapshot.h" line="468"/>
         <source>Select a different snapshot directory</source>
-        <translation>Sélectionnez un répertoire différent du snapshot</translation>
+        <translation>Choisir un répertoire différent pour l&apos;instantané</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="182"/>
@@ -41,19 +41,19 @@
         <location filename="ui_isosnapshot.h" line="473"/>
         <location filename="ui_isosnapshot.h" line="474"/>
         <source>TextLabel</source>
-        <translation>TexteEtiquette</translation>
+        <translation>Étiquette de texte</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="246"/>
         <location filename="ui_isosnapshot.h" line="475"/>
         <source>Edit Configuration File</source>
-        <translation>Modifier le fichier de configuration</translation>
+        <translation>Éditer le fichier de configuration</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="276"/>
         <location filename="ui_isosnapshot.h" line="476"/>
         <source>You can also exclude certain directories by ticking the common choices below, or by clicking on the button to directly edit /usr/lib/iso-snapshot/snapshot-exclude.list.</source>
-        <translation>Vous pouvez également exclure certains répertoires en sélectionnant les choix communs ci-dessous, ou en cliquant le bouton pour éditer directement  /usr/lib/iso-snapshot/snapshot-exclude.list.</translation>
+        <translation>Vous pouvez également exclure certains répertoires en sélectionnant les choix communs ci-dessous, ou en cliquant sur le bouton pour éditer directement /usr/lib/iso-snapshot/snapshot-exclude.list.</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="301"/>
@@ -107,25 +107,25 @@
         <location filename="isosnapshot.ui" line="385"/>
         <location filename="ui_isosnapshot.h" line="486"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This option will reset &amp;quot;demo&amp;quot; and &amp;quot;root&amp;quot; passwords to the antiX Linux defaults and will not copy any personal accounts created.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cette option restaurera les mots de passe de &quot;demo&quot; et &quot;root&quot; aux défauts antiX Linux et ne copiera pas les comptes personels.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cette option réinitialisera les mots de passe de &quot;demo&quot; et &quot;root&quot; par défaut dans antiX Linux et ne copiera aucun compte personnel créé.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="388"/>
         <location filename="ui_isosnapshot.h" line="488"/>
         <source>Resetting accounts (for distribution to others)</source>
-        <translation>On réinitialise les comptes (pour distribuer aux autres)</translation>
+        <translation>Réinitialisation des comptes (pour distribuer à d&apos;autres personnes)</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="395"/>
         <location filename="ui_isosnapshot.h" line="489"/>
         <source>Type of snapshot:</source>
-        <translation>Type d&apos;image instantane:</translation>
+        <translation>Type d&apos;instantané:</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="402"/>
         <location filename="ui_isosnapshot.h" line="490"/>
         <source>Preserving accounts (for personal backup)</source>
-        <translation>On conserve les comptes (pour la sauvegarde personelle)</translation>
+        <translation>Conservation des comptes (pour une sauvegarde personnelle)</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="514"/>
@@ -168,13 +168,13 @@
         <location filename="isosnapshot.ui" line="567"/>
         <location filename="ui_isosnapshot.h" line="503"/>
         <source>About this application</source>
-        <translation>A propos de cette application</translation>
+        <translation>À propos de cette application</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="570"/>
         <location filename="ui_isosnapshot.h" line="505"/>
         <source>About...</source>
-        <translation>A propos...</translation>
+        <translation>À propos...</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="577"/>
@@ -186,7 +186,7 @@
         <location filename="isosnapshot.ui" line="615"/>
         <location filename="ui_isosnapshot.h" line="509"/>
         <source>Start scanning for shares</source>
-        <translation>Commencer à rechercher des partages réseau</translation>
+        <translation>Démarrage de la recherche de partages réseau</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="618"/>
@@ -211,22 +211,22 @@
     <message>
         <location filename="isosnapshot.cpp" line="72"/>
         <source>The snapshot will be placed by default in </source>
-        <translation>Le snapshot sera mis par défaut dans</translation>
+        <translation>L&apos;instantané sera mis par défaut dans</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="193"/>
         <source>Used space on / (root): </source>
-        <translation>Espace utilisé sur / (racine):</translation>
+        <translation>Espace utilisé dans / (racine):</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="196"/>
         <source>Used space on /home: </source>
-        <translation>Espace utilisé sur /home:</translation>
+        <translation>Espace utilisé dans /home:</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="213"/>
         <source>Free space on %1, where snapshot folder is placed: </source>
-        <translation>Espace libre on %1 où sera mis le dossier du snapshot:</translation>
+        <translation>Espace libre dans %1 où sera placé le dossier de l&apos;instantané:</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="215"/>
@@ -236,22 +236,25 @@
       by removing previous snapshots and saved copies:
       %1 snapshots are taking up %2 of disk space.
 </source>
-        <translation>L&apos;espace libre doit suffire pour tenir les données comprimées de / et /home
+        <translation>L&apos;espace libre doit pouvoir contenir les données compressées de / et /home
 
-Si nécessaire, vous pouvez obtenir de l&apos;espace supplémentaire en enlever les images et les copies crées auparavant:
-%1 images occupent %2 de l&apos;espace sur disque.</translation>
+Si nécessaire, vous pouvez obtenir de l&apos;espace supplémentaire en supprimant les instantanés et les copies créées auparavant:
+%1 images occupent %2 de l&apos;espace disque.
+</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="227"/>
         <source>The graphical text editor is set to %1, but it is not installed. Edit %2 and set the gui_editor variable to the editor of your choice. (examples: /usr/bin/gedit, /usr/bin/leafpad)
 
 Will install leafpad and use it this time.</source>
-        <translation>L&apos;éditeur graphique de texte est mis à %1, mais n&apos;est pas installé. Éditer %2 et mettre la variable gui_editor à l&apos;éditeur de votre choix. (exemples: /usr/bin/gedit, /usr/bin/leafpad)</translation>
+        <translation>L&apos;éditeur graphique de texte est réglé sur %1, mais celui-ci n&apos;est pas installé. Éditez %2 et réglez la variable gui_editor sur l&apos;éditeur de votre choix. (exemples: /usr/bin/gedit, /usr/bin/leafpad)
+
+Leafpad va être installé et sera utilisé cette fois-ci</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="251"/>
         <source>Installing </source>
-        <translation>Installation</translation>
+        <translation>Installation...</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="266"/>
@@ -263,57 +266,57 @@ Will install leafpad and use it this time.</source>
     <message>
         <location filename="isosnapshot.cpp" line="266"/>
         <source>Could not install </source>
-        <translation>Impossible d&apos;installer</translation>
+        <translation>Installation impossible</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="315"/>
         <source>Copying the new-iso filesystem...</source>
-        <translation>Copiant le nouveau-iso système de fichiers</translation>
+        <translation>Copie du nouveau système de fichiers iso en cours... </translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="420"/>
         <source>Squashing filesystem...</source>
-        <translation>Ecrasant le système de fichiers</translation>
+        <translation>Écrasement du système de fichiers...</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="422"/>
         <source>Could not create linuxfs file, please check whether you have enough space on the destination partition.</source>
-        <translation>Peut pas créer le fichier linuxfs. Veuillez vérifier si l&amp;apos;espace sur la partition de destination suffit.</translation>
+        <translation>Impossible de créer le fichier linuxfs. Veuillez vérifier que l&apos;espace sur la partition de destination est suffisant.</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="434"/>
         <source>Creating CD/DVD image file...</source>
-        <translation>Créent le fichier image pour CD/DVD</translation>
+        <translation>Création du fichier image pour CD/DVD en cours...</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="436"/>
         <source>Could not create ISO file, please check whether you have enough space on the destination partition.</source>
-        <translation>Peut pas créer le fichier ISO. Veuillez vérifier si l&amp;apos;espace sur la partition de destination suffit.</translation>
+        <translation>Impossible de créer le fichier ISO. Veuillez vérifier que l&apos;espace sur la partition de destination est suffisant.</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="442"/>
         <source>Making hybrid iso</source>
-        <translation> Créént ISO hybride</translation>
+        <translation> Création d&apos;une image ISO hybride</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="460"/>
         <source>Making md5sum</source>
-        <translation>Créént </translation>
+        <translation>Création du fichier md5sum</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="471"/>
         <source>Cleaning...</source>
-        <translation>Nettoyage</translation>
+        <translation>Nettoyage...</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="522"/>
         <source>Please wait.</source>
-        <translation>Veuillez attendre.</translation>
+        <translation>Veuillez patienter...</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="524"/>
         <source>Please wait. Calculating used disk space...</source>
-        <translation>Veuillez attendre. On calcule l&apos;espace disque utilisé.</translation>
+        <translation>Veuillez patienter. Calcul de l&apos;espace disque utilisé...</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="571"/>
@@ -323,42 +326,42 @@ Will install leafpad and use it this time.</source>
     <message>
         <location filename="isosnapshot.cpp" line="580"/>
         <source>Snapshot will use the following settings:*</source>
-        <translation>Snapshot se servira des réglages suivants:*</translation>
+        <translation>Snapshot utilisera les réglages suivants:*</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="582"/>
         <source>- Snapshot directory:</source>
-        <translation>- Répertoire du snapshot</translation>
+        <translation>- Répertoire de l&apos;instantané:</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="583"/>
         <source>- Kernel to be used:</source>
-        <translation>- Le noyau à utiliser:</translation>
+        <translation>- Noyau à utiliser:</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="584"/>
         <source>*These settings can be changed by editing: </source>
-        <translation>*On peut modifier ces réglages en éditer:</translation>
+        <translation>*Ces réglages peuvent être modifiés en éditant:</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="589"/>
         <source>Final chance</source>
-        <translation>Dernier possibilité</translation>
+        <translation>Dernière occasion d&apos;arrêter le processus</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="590"/>
         <source>Snapshot now has all the information it needs to create an ISO from your running system.</source>
-        <translation>Maintenant Snapshot possède tous les renseignements dont il en a besoin afin de créer de votre systeme actuel le fichier ISO.</translation>
+        <translation>Snapshot dispose désormais de toutes les informations nécessaires à la création du fichier ISO instantané de votre système.</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="591"/>
         <source>It will take some time to finish, depending on the size of the installed system and the capacity of your computer.</source>
-        <translation>Le processus peut durer longtemps. Ça depend de la taille de votre image et la capacité de votre ordinateur.</translation>
+        <translation>Selon la taille de votre image et la puissance de votre ordinateur, le processus peut durer un certain temps.</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="592"/>
         <source>OK to start?</source>
-        <translation>OK pour commencer?</translation>
+        <translation>Prêt à démarrer?</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="600"/>
@@ -373,7 +376,7 @@ Will install leafpad and use it this time.</source>
     <message>
         <location filename="isosnapshot.cpp" line="609"/>
         <source>The program will now pause to allow you to edit any files in the work directory. Select Yes to edit the boot menu or select No to bypass this step and continue creating the snapshot.</source>
-        <translation>Le programme fait une pause afin de vous permettre d&apos;éditer les fichiers dans le repertoire de travail. Veuillez choisir soit Yes pour éditer le menu du démarrage, soit No pour sauter et continuer a créer l&apos;image instantané.</translation>
+        <translation>Le programme va se mettre en pause afin de vous permettre d&apos;éditer les fichiers du répertoire de travail. Veuillez choisir Yes pour éditer le menu de démarrage, ou No pour passer cette étape et continuer la création de l&apos;instantané.</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="622"/>
@@ -383,7 +386,7 @@ Will install leafpad and use it this time.</source>
     <message>
         <location filename="isosnapshot.cpp" line="622"/>
         <source>All finished!</source>
-        <translation>Fini</translation>
+        <translation>Terminé!</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="623"/>
@@ -393,7 +396,7 @@ Will install leafpad and use it this time.</source>
     <message>
         <location filename="isosnapshot.cpp" line="734"/>
         <source>About iso-snapshot</source>
-        <translation>À propos de </translation>
+        <translation>À propos de iso-snapshot</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="735"/>
@@ -403,7 +406,7 @@ Will install leafpad and use it this time.</source>
     <message>
         <location filename="isosnapshot.cpp" line="737"/>
         <source>Program for creating a live-CD from the running system for antiX Linux</source>
-        <translation>Ce programme fait un CD-ROM autonome du système actuel antiX Linux.</translation>
+        <translation>Programme de création d&apos;un instantané sous forme de liveCD à partir d&apos;un système antiX Linux en fonctionnement .</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="738"/>
@@ -413,17 +416,17 @@ Will install leafpad and use it this time.</source>
     <message>
         <location filename="isosnapshot.cpp" line="740"/>
         <source>License</source>
-        <translation>License</translation>
+        <translation>Licence</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="757"/>
         <source>Select Snapshot Directory</source>
-        <translation>Sélectionnez un répertoire du snapshot</translation>
+        <translation>Choisissez un répertoire pour l&apos;instantané</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="760"/>
         <source>The snapshot will be placed in </source>
-        <translation>Le snapshot sera mis dans</translation>
+        <translation>L&apos;instantané sera placé dans</translation>
     </message>
 </context>
 </TS>

@@ -1,3 +1,27 @@
+iso-snapshot-antix (0.2.6) unstable; urgency=medium
+
+  * updated translations
+
+ -- anticapitalista <antix@operamail.com>  Fri, 02 Mar 2018 20:52:18 +0200
+
+iso-snapshot-antix (0.2.5) unstable; urgency=medium
+
+  * New translations added to .desktop file
+
+ -- anticapitalista <antix@operamail.com>  Wed, 07 Feb 2018 21:32:18 +0200
+
+iso-snapshot-antix (0.2.4) unstable; urgency=medium
+
+  * added copy-initrd-programs
+
+ -- anticapitalista <antix@operamail.com>  Mon, 15 Jan 2018 14:44:17 +0200
+
+iso-snapshot-antix (0.2.3) unstable; urgency=medium
+
+  * added var/cache/brightness-settings-cache/* to excludes.list
+
+ -- anticapitalista <antix@operamail.com>  Fri, 12 Jan 2018 14:02:05 +0200
+
 iso-snapshot-antix (0.2.2) unstable; urgency=medium
 
   * exclude localhost only for generalized snapshot 

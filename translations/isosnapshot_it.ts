@@ -71,7 +71,7 @@
         <location filename="isosnapshot.ui" line="315"/>
         <location filename="ui_isosnapshot.h" line="479"/>
         <source>All of the above</source>
-        <translation>Tutti gli elementi qua sopra</translation>
+        <translation>Tutti gli elementi sopra</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="322"/>
@@ -107,7 +107,7 @@
         <location filename="isosnapshot.ui" line="385"/>
         <location filename="ui_isosnapshot.h" line="486"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This option will reset &amp;quot;demo&amp;quot; and &amp;quot;root&amp;quot; passwords to the antiX Linux defaults and will not copy any personal accounts created.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Questa opzione resetterà le passwords &quot;demo&quot; e &quot;root&quot; a quelle di default di antiX Linux e non copierà alcun accounts personale creato da te.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Questa opzione resetterà le passwords &amp;quot;demo&amp;quot; e &amp;quot;root&amp;quot; a quelle di default di antiX Linux e non copierà alcun accounts personale creato da te.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="388"/>
@@ -150,7 +150,7 @@
         <location filename="isosnapshot.ui" line="534"/>
         <location filename="ui_isosnapshot.h" line="498"/>
         <source>Display help </source>
-        <translation>Visualizza aiuto</translation>
+        <translation>Visualizza la guida</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="537"/>
@@ -168,7 +168,7 @@
         <location filename="isosnapshot.ui" line="567"/>
         <location filename="ui_isosnapshot.h" line="503"/>
         <source>About this application</source>
-        <translation>Informazioni riguardo questa applicazione</translation>
+        <translation>Informazioni su questa applicazione</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="570"/>
@@ -186,7 +186,7 @@
         <location filename="isosnapshot.ui" line="615"/>
         <location filename="ui_isosnapshot.h" line="509"/>
         <source>Start scanning for shares</source>
-        <translation>Avvia la ricerca di risorse condivse</translation>
+        <translation>Avvia ricerca di risorse condivse</translation>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="618"/>
@@ -211,7 +211,7 @@
     <message>
         <location filename="isosnapshot.cpp" line="72"/>
         <source>The snapshot will be placed by default in </source>
-        <translation>Snapshot verrà salvata di default in</translation>
+        <translation> La snapshot verrà salvata di default in</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="193"/>

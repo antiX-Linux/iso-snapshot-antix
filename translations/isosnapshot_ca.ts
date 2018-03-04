@@ -407,7 +407,7 @@ Aquest cop s&apos;instal·larà i usarà leafpad.</translation>
     <message>
         <location filename="isosnapshot.cpp" line="737"/>
         <source>Program for creating a live-CD from the running system for antiX Linux</source>
-        <translation>Programa de antiX Linux per crear un CD autònom a partir del sistema en execució </translation>
+        <translation>Programa d&apos;antiX Linux per crear un CD autònom a partir del sistema en execució </translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="738"/>

@@ -226,7 +226,7 @@
     <message>
         <location filename="isosnapshot.cpp" line="213"/>
         <source>Free space on %1, where snapshot folder is placed: </source>
-        <translation>Ελεύθερος χώρος στο %1, όπου το φάκελο σnapshot τοποθετείται:</translation>
+        <translation>Ελεύθερος χώρος στο %1, όπου το φάκελο snapshot τοποθετείται:</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="215"/>
@@ -281,7 +281,7 @@ Will install leafpad and use it this time.</source>
     <message>
         <location filename="isosnapshot.cpp" line="422"/>
         <source>Could not create linuxfs file, please check whether you have enough space on the destination partition.</source>
-        <translation>Δεν ήταν δυνατή η δημιουργία του αρχείου linuxfs, ελέγξτε αν έχετε αρκετό χώρο στο προορισμενο διαμέρισμα.</translation>
+        <translation>Δεν ήταν δυνατή η δημιουργία του αρχείου linuxfs, ελέγξτε αν έχετε αρκετό χώρο στο προορισμένο διαμέρισμα.</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="434"/>
@@ -291,12 +291,12 @@ Will install leafpad and use it this time.</source>
     <message>
         <location filename="isosnapshot.cpp" line="436"/>
         <source>Could not create ISO file, please check whether you have enough space on the destination partition.</source>
-        <translation>Δεν ήταν δυνατή η δημιουργία του αρχείου ISO, ελέγξτε αν έχετε αρκετό χώρο στο προορισμενο διαμέρισμα.</translation>
+        <translation>Δεν ήταν δυνατή η δημιουργία του αρχείου ISO, ελέγξτε αν έχετε αρκετό χώρο στο προορισμένο διαμέρισμα.</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="442"/>
         <source>Making hybrid iso</source>
-        <translation>Κάνοντας υβριδικο ISO</translation>
+        <translation>Κάνοντας υβριδικό ISO</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="460"/>
@@ -422,12 +422,12 @@ Will install leafpad and use it this time.</source>
     <message>
         <location filename="isosnapshot.cpp" line="757"/>
         <source>Select Snapshot Directory</source>
-        <translation>Επιλέξτε Κατάλογος Snpshot</translation>
+        <translation>Επιλέξτε Κατάλογος Snapshot</translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="760"/>
         <source>The snapshot will be placed in </source>
-        <translation>Το snapshot θα τοποθετηθε </translation>
+        <translation>Το snapshot θα τοποθετηθεί σε </translation>
     </message>
 </context>
 </TS>

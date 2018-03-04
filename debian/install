@@ -5,4 +5,4 @@ iso-snapshot-exclude.list	usr/local/share/excludes
 translations/*.qm 	usr/share/iso-snapshot-antix/locale
 iso-snapshot.png	usr/share/pixmaps
 icons/*			usr/share/iso-snapshot-antix/icons
-scripts/copy-initrd-modules	usr/sbin
+scripts/*			usr/sbin

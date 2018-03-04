@@ -13,7 +13,7 @@
         <location filename="isosnapshot.ui" line="14"/>
         <location filename="ui_isosnapshot.h" line="464"/>
         <source>isosnapshot</source>
-        <translation>isosnapshot</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="33"/>
@@ -53,24 +53,7 @@
         <location filename="isosnapshot.ui" line="276"/>
         <location filename="ui_isosnapshot.h" line="476"/>
         <source>You can also exclude certain directories by ticking the common choices below, or by clicking on the button to directly edit /usr/lib/iso-snapshot/snapshot-exclude.list.</source>
-        <translation>下の選択をチェックする事によって、対象を除外する事ができます。または /usr/lib/iso-snapshot/snapshot-exclude.list で除外ディレクトリを確認して下さい。
-
-    保存
-    Save all (0)
-
-保存して次の文字列に移動するにはTABを押してください
-説明はありません
-詳細を見る
-
-    提案
-    履歴
-    用語集
-    コメント
-
-提案
-提案はありません
-
-</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="301"/>
@@ -124,7 +107,7 @@
         <location filename="isosnapshot.ui" line="385"/>
         <location filename="ui_isosnapshot.h" line="486"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This option will reset &amp;quot;demo&amp;quot; and &amp;quot;root&amp;quot; passwords to the antiX Linux defaults and will not copy any personal accounts created.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;このオプションは antiX Linux のデフォルトになっている &quot;demo&quot; と &quot;root&quot; のパスワードをリセットし、作成されている個人アカウントのコピーは行いません。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="isosnapshot.ui" line="388"/>
@@ -223,12 +206,12 @@
         <location filename="isosnapshot.cpp" line="632"/>
         <location filename="isosnapshot.cpp" line="735"/>
         <source>iso-snapshot</source>
-        <translation>iso-snapshot</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="72"/>
         <source>The snapshot will be placed by default in </source>
-        <translation>スナップショットの標準場所 </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="193"/>
@@ -254,6 +237,7 @@
       %1 snapshots are taking up %2 of disk space.
 </source>
         <translation>/ および /home は圧縮データを保管する十分な空き容量がないといけません。
+
 必要に応じて、以前生成したスナップショットを削除する事によって
 空き容量を増やし、コピーを保存する事ができます:
 スナップショット %1 は空き容量 %2 が必要です。
@@ -358,7 +342,7 @@ leafpad をインストールし、それを使います。</translation>
     <message>
         <location filename="isosnapshot.cpp" line="584"/>
         <source>*These settings can be changed by editing: </source>
-        <translation>変更箇所を編集した設定: </translation>
+        <translation>*変更箇所を編集した設定: </translation>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="589"/>
@@ -423,7 +407,7 @@ leafpad をインストールし、それを使います。</translation>
     <message>
         <location filename="isosnapshot.cpp" line="737"/>
         <source>Program for creating a live-CD from the running system for antiX Linux</source>
-        <translation>実行している antiX Linux を元に live-CD を生成するプログラム</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="738"/>
@@ -433,7 +417,7 @@ leafpad をインストールし、それを使います。</translation>
     <message>
         <location filename="isosnapshot.cpp" line="740"/>
         <source>License</source>
-        <translation>ライセンス</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="isosnapshot.cpp" line="757"/>
@@ -443,7 +427,7 @@ leafpad をインストールし、それを使います。</translation>
     <message>
         <location filename="isosnapshot.cpp" line="760"/>
         <source>The snapshot will be placed in </source>
-        <translation>スナップショットの置き場所</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>

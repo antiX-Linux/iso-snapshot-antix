@@ -344,7 +344,8 @@ void isosnapshot::copyModules(QString to, QString kernel)
     QString kernel586 = "3.16.0-4-586";
     QString cmd = QString("copy-initrd-modules -t=\"%1\" -k=\"%2\"").arg(to).arg(kernel);
     system(cmd.toUtf8());
-
+    cmd = QString("copy-initrd-programs --to=\"%1\"").arg(to);
+    system(cmd.toUtf8());
 }
 
 // Create the output filename
